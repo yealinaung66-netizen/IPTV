@@ -1,4 +1,4 @@
-Free TV
+https://github.com/Free-TV/IPTVFree TV
 =======
 
 This is an M3U playlist for free TV channels around the World.
